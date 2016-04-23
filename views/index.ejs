@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>c3</title>
+        <link rel="stylesheet" href="/vendor/bootstrap/dist/css/bootstrap.css">
+                <link rel="stylesheet" href="/styles/style.css">
+
+    </head>
+    <body>
+        <!-- data-main attribute tells require.js to load
+             scripts/main.js after require.js loads. -->
+
+<div id='legend' style='display:none;'>
+  <strong>The Title or Explanation of your Map</strong>
+  <nav class='legend clearfix'>
+    <span style='background:#F1EEF6;'></span>
+    <span style='background:#BDC9E1;'></span>
+    <span style='background:#74A9CF;'></span>
+    <span style='background:#2B8CBE;'></span>
+    <span style='background:#045A8D;'></span>
+    <label>0 - 20%</label>
+    <label>40%</label>
+    <label>60%</label>
+    <label>80%</label>
+    <label>100%</label>
+    <small>Source: <a href="#link to source">Name of source</a></small>
+</div>
+
+
+
+        <div class="main-content">
+            <div class="main-content-inner">
+                
+                <div id="map"></div> 
+
+            
+                <div class="console">
+                    <div class=""></div>
+                </div>
+
+
+            </div>
+        </div>
+
+        <div class="searchbox">
+            <a class="close-search" href="#"><span class="glyphicon glyphicon-remove"></span></a>
+            <input type="text" placeholder="Choose your country, city or area">
+            <button class="btn btn-danger">GO</button>
+        </div>
+
+        <div class="actions">
+        <table cellspacing="10" cellpadding="15"><tr>
+            <td><span class="glyphicon glyphicon-download"></span> download this set</td>
+            <td><a class="new-searchbox" href="#"><span class="glyphicon glyphicon-search"> </span> new search</a></td>
+            <td><span class="glyphicon glyphicon-envelope"> </span> email this set</td>
+            <td><span class="glyphicon glyphicon-print"> </span> print this set</td>
+            <td><span class="glyphicon glyphicon-phone"> </span> contribute to <span class="c3">C3</span></td>
+            </tr></table>
+        </div>
+
+
+        <!-- highcharts -->
+        <script src="https://code.highcharts.com/stock/highstock.js"></script>
+        <script src="https://code.highcharts.com/stock/modules/exporting.js"></script>
+
+        <script data-main="main.js" src="/vendor/requirejs/require.js"></script>
+
+    </body>
+</html>

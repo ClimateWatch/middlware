@@ -1,0 +1,35 @@
+{
+  "name": "c3",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "2.2.0",
+    "backbone-amd": "1.1.0",
+    "underscore-amd": "1.5.2",
+    "requirejs": "2.1.22",
+    "backbone.marionette": null,
+    "backbone-forms": null,
+    "bootstrap": "3.3.6",
+    "requirejs-plugins": "^1.0.3"
+  },
+  "authors": [
+    "Goga Mamoulasvili <goga.mamoulasvili@gmail.com>",
+    "Panos Peristeropoulos <panos.peristeropoulos@gmail.com>",
+    "Giorgos Anadiotis "
+  ],
+  "description": "c3",
+  "main": "main.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./vendor",
+    "test",
+    "tests"
+  ]
+}

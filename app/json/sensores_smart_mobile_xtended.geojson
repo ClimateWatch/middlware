@@ -1,0 +1,3616 @@
+[
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"120.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:59Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:59Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83352,
+            43.4554
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"111.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"70.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:55Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:55Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -2.94568,
+            43.3039
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"100.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:54Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:54Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83318,
+            43.4554
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"100.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:51Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:51Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83422,
+            43.4552
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"121.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:50Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:50Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83255,
+            43.4565
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"114.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"120.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:40Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:40Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.84302,
+            43.4653
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"163.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"69.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"44.6","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:39Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:39Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83375,
+            43.4552
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"42.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:33Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:33Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.80404,
+            43.4639
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"121.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:28Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:28Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83389,
+            43.4556
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"105.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:25Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:25Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.6996,
+            43.4481
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"121.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:24Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:24Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83451,
+            43.4557
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"121.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:23Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:23Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83392,
+            43.4551
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"120.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:20Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:20Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83348,
+            43.4553
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"81.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:19Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:19Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83532,
+            43.4646
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"116.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"5.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:18Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:18Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.79953,
+            43.4748
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"46.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"18.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:03Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:51:03Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83346,
+            43.4553
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"71.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"51.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.3","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:53Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:53Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.8358,
+            43.4646
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"67.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:46Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:46Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83919,
+            43.4387
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"64.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"120.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:45Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:45Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83439,
+            43.4556
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"120.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:44Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:44Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83384,
+            43.4555
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"54.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"121.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:43Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:43Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83431,
+            43.4554
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"120.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:36Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:36Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.8343,
+            43.4553
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"114.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"34.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:34Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:34Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83406,
+            43.4556
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"120.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:32Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:32Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83239,
+            43.452
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"87.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:31Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:31Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.82305,
+            43.4532
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"105.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"71.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:29Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:29Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.81411,
+            43.4619
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"121.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:27Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:27Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.84236,
+            43.4392
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"116.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"121.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:25Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:25Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83343,
+            43.4554
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:24Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:24Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83364,
+            43.4553
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"121.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:22Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:22Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83416,
+            43.4554
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"114.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"120.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:21Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:21Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83669,
+            43.4571
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"114.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"121.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.4","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:19Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:19Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83411,
+            43.4553
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"9.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:15Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:15Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83406,
+            43.4555
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"77.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"5.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:09Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:09Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83542,
+            43.4646
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"114.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"11.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:06Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:06Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83432,
+            43.4554
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"113.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"120.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:03Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:50:03Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83333,
+            43.4554
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"26.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:57Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:57Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83398,
+            43.4554
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"114.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"32.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:53Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:53Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83373,
+            43.4554
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"117.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:52Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:52Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83241,
+            43.4518
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"120.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:49Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:49Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.834,
+            43.4554
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"10.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"34.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.4","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:48Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:48Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -4.04687,
+            43.3455
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"13.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.3","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:47Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:47Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83528,
+            43.4643
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"75.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"25.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:41Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:41Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.85406,
+            43.4151
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"44.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.3","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:39Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:39Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.8295,
+            43.4506
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"61.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"121.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.3","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:34Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:34Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83371,
+            43.4551
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"100.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:30Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:30Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83432,
+            43.4557
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"80.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"53.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:24Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:24Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83544,
+            43.4648
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"120.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:18Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:18Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            0.0,
+            0.0
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"113.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"71.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"36.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:15Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:15Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.84099,
+            43.4647
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"116.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"120.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:10Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:49:10Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83204,
+            43.4521
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"100.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:48:53Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:48:53Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83387,
+            43.4556
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"161.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:48:46Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:48:46Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.84797,
+            43.4199
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"114.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"69.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:48:42Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:48:42Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83314,
+            43.4554
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"83.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"68.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:48:41Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:48:41Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.81841,
+            43.4014
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"113.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"82.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:48:32Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:48:32Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83378,
+            43.4556
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"116.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"120.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:48:31Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:48:31Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.87462,
+            43.4359
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"29.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"91.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:48:03Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:48:03Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83427,
+            43.4555
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"79.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"8.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:48:01Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:48:01Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83333,
+            43.4554
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"50.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:48:00Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:48:00Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.80896,
+            43.4623
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"58.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:58Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:58Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83384,
+            43.4552
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"102.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:55Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:55Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83393,
+            43.4554
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"121.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:54Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:54Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83411,
+            43.4555
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"121.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:51Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:51Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83363,
+            43.4555
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"98.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"73.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.3","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:46Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:46Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.90857,
+            43.3912
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"100.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:43Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:43Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83418,
+            43.4554
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"116.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"121.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:42Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:42Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83374,
+            43.4556
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"114.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"106.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:41Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:41Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83395,
+            43.4554
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"120.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:37Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:37Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83391,
+            43.4554
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"93.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"46.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:26Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:26Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83528,
+            43.4643
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"85.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"118.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"4.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:23Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:23Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.79633,
+            43.4665
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"120.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:22Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:22Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83213,
+            43.4519
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"93.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"57.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:20Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:20Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.81546,
+            43.4647
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"116.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"120.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:10Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:10Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83271,
+            43.452
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"121.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:01Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:47:01Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83271,
+            43.4517
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"114.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"121.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:46:57Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:46:57Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83401,
+            43.4554
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"112.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"29.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:46:50Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:46:50Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.86157,
+            43.4597
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"111.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"102.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:46:41Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:46:41Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            0.0,
+            0.0
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"116.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"121.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:46:36Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T04:46:36Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83387,
+            43.4556
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"100.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T03:47:30Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T03:47:30Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            0.0,
+            0.0
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"100.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T02:59:38Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T02:59:38Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.78882,
+            43.4652
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"93.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"56.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.3","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T02:57:47Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T02:57:47Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.82325,
+            43.4529
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"100.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T02:44:44Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T02:44:44Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.82392,
+            43.4642
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"100.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T01:10:28Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-09T01:10:28Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83561,
+            43.4644
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"116.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"30.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-08T23:29:35Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-08T23:29:35Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.97516,
+            43.3234
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"100.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-08T21:27:20Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-08T21:27:20Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83403,
+            43.4555
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"116.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"26.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"4.5","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-08T20:32:06Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-08T20:32:06Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -4.12527,
+            42.9878
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"100.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-08T18:51:27Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-08T18:51:27Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.81123,
+            43.4591
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"24.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.4","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-08T12:47:55Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-08T12:47:55Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83493,
+            43.4645
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"90.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"64.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-08T11:05:53Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-08T11:05:53Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83418,
+            43.4556
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"116.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"41.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-08T10:17:49Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-08T10:17:49Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.84397,
+            43.4567
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"12.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"360.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"18.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-06T11:52:26Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-04-06T11:52:26Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83373,
+            43.4551
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-03-30T07:42:20Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-03-30T07:42:20Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83424,
+            43.4553
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"100.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-03-02T16:00:06Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-03-02T16:00:06Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83947,
+            43.4616
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"66.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"8.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.4","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-02-27T02:09:06Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-02-27T02:09:06Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83939,
+            43.462
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"9.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.3","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-02-15T15:18:48Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-02-15T15:18:48Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.82922,
+            43.4643
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"121.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-02-10T08:03:14Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-02-10T08:03:14Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83259,
+            43.452
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"100.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-02-08T17:48:25Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-02-08T17:48:25Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            0.0,
+            0.0
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"116.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"120.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-01-25T12:51:23Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-01-25T12:51:23Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83436,
+            43.4554
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"116.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"121.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-01-25T08:44:48Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2016-01-25T08:44:48Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83425,
+            43.4553
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"100.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-12-11T19:45:21Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-12-11T19:45:21Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83394,
+            43.4552
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"100.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-11-05T08:49:50Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-11-05T08:49:50Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.85264,
+            43.4567
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"100.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-11-03T03:01:39Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-11-03T03:01:39Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83406,
+            43.4556
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"120.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-08-22T20:48:34Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-08-22T20:48:34Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83209,
+            43.4519
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"113.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"57.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-07-17T10:13:00Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-07-17T10:13:00Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            0.0,
+            0.0
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"90.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"50.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"9.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-07-15T18:03:13Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-07-15T18:03:13Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            0.0,
+            0.0
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"90.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"50.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"10.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-07-15T18:02:51Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-07-15T18:02:51Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            0.0,
+            0.0
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"90.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"50.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"10.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-07-15T18:02:16Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-07-15T18:02:16Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            0.0,
+            0.0
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"28.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"46.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-07-15T18:01:50Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-07-15T18:01:50Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.90891,
+            43.4359
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"90.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"50.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"10.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-07-15T18:01:36Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-07-15T18:01:36Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            0.0,
+            0.0
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"200.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-06-10T03:38:38Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-06-10T03:38:38Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83498,
+            43.4641
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"96.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"36.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.3","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-04-25T14:14:00Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-04-25T14:14:00Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.82054,
+            43.4592
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"6.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-04-22T09:34:00Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-04-22T09:34:00Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83918,
+            43.462
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"92.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"89.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.7","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-03-21T07:34:00Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-03-21T07:34:00Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.81603,
+            43.4588
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"105.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"57.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.3","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-03-18T09:30:00Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-03-18T09:30:00Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83933,
+            43.4621
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"200.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-02-23T04:12:28Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-02-23T04:12:28Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.8348,
+            43.4644
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"116.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"83.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"1.6","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-02-03T10:32:46Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2015-02-03T10:32:46Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83519,
+            43.4646
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"200.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-12-15T15:08:50Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-12-15T15:08:50Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.78769,
+            43.4681
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"200.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-12-15T15:07:29Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-12-15T15:07:29Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.78853,
+            43.4732
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"200.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-12-15T15:06:58Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-12-15T15:06:58Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83061,
+            43.4573
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"200.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-12-15T15:06:53Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-12-15T15:06:53Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.80463,
+            43.4617
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"68.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-12-15T15:05:22Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-12-15T15:05:22Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.84359,
+            43.4573
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"45.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-12-15T15:04:36Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-12-15T15:04:36Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.78876,
+            43.4682
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"81.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-12-15T07:08:29Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-12-15T07:08:29Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83398,
+            43.4553
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"200.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-11-05T07:00:41Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-11-05T07:00:41Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83519,
+            43.4647
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"41.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"71.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-10-02T11:37:16Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-10-02T11:37:16Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.85267,
+            43.4602
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"98.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"72.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-10-02T11:19:56Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-10-02T11:19:56Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            0.0,
+            0.0
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"113.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"77.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"5.8","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-08-19T14:04:00Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-08-19T14:04:00Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.77005,
+            43.4696
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"46.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"55.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-08-08T17:57:00Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-08-08T17:57:00Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.80018,
+            43.4717
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"61.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.4","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-07-09T09:53:53Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-07-09T09:53:53Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.854,
+            43.4555
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"115.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"20.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.4","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-06-19T19:24:00Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-06-19T19:24:00Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.86258,
+            43.4562
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"116.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"38.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-06-03T08:23:00Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-06-03T08:23:00Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83935,
+            43.4622
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"108.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"24.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-05-17T08:03:00Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-05-17T08:03:00Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83922,
+            43.462
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"116.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"56.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-03-12T10:19:19Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-03-12T10:19:19Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83427,
+            43.4552
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"116.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"7.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-02-26T16:52:00Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-02-26T16:52:00Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83928,
+            43.4621
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"140.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"200.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-02-05T17:33:23Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2014-02-05T17:33:23Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83531,
+            43.4648
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"143.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"54.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.1","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2013-12-02T12:11:02Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2013-12-02T12:11:02Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.8341,
+            43.4556
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"90.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"55.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"10.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2013-12-02T10:33:49Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2013-12-02T10:33:49Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83424,
+            43.4553
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"103.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"34.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"0.2","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2013-11-30T15:23:00Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2013-11-30T15:23:00Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.85105,
+            43.4599
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+      	 "marker-color": "#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{"actual":"90.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "ozone":{"actual":"50.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "CO":{"actual":"10.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2013-10-29T18:44:48Z"
+         },
+         "temperature":{
+            "temperature":{"actual":"14.0","red": "10.0","yellow": "8.0","green": "5.0"},
+            "timestamp":"2013-10-29T18:44:48Z"
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            0.0,
+            0.0
+         ]
+      }
+   }
+]

@@ -1,0 +1,737 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "http://jsonschema.net",
+  "type": "object",
+  "title": "AirCheck",
+  "description": "Reporting json schema for the aircheck application",
+  "name": "/",
+  "properties": {
+    "type": {
+      "id": "http://jsonschema.net/type",
+      "type": "string",
+      "title": "Type schema.",
+      "description": "An explanation about the purpose of this instance described by this schema.",
+      "name": "type",
+      "default": "Feature"
+    },
+    "properties": {
+      "id": "http://jsonschema.net/properties",
+      "type": "object",
+      "title": "Properties schema.",
+      "description": "An explanation about the purpose of this instance described by this schema.",
+      "name": "properties",
+      "properties": {
+        "marker-color": {
+          "id": "http://jsonschema.net/properties/marker-color",
+          "type": "string",
+          "title": "Marker-color schema.",
+          "description": "An explanation about the purpose of this instance described by this schema.",
+          "name": "marker-color",
+          "default": "#bbb"
+        },
+        "datatype": {
+          "id": "http://jsonschema.net/properties/datatype",
+          "type": "object",
+          "title": "Datatype schema.",
+          "description": "An explanation about the purpose of this instance described by this schema.",
+          "name": "datatype",
+          "properties": {
+            "color": {
+              "id": "http://jsonschema.net/properties/datatype/color",
+              "type": "string",
+              "title": "Color schema.",
+              "description": "An explanation about the purpose of this instance described by this schema.",
+              "name": "color",
+              "default": "green"
+            }
+          }
+        },
+        "inputSource": {
+          "id": "http://jsonschema.net/properties/inputSource",
+          "type": "object",
+          "title": "InputSource schema.",
+          "description": "An explanation about the purpose of this instance described by this schema.",
+          "name": "inputSource",
+          "properties": {
+            "operatorType": {
+              "id": "http://jsonschema.net/properties/inputSource/operatorType",
+              "type": "string",
+              "title": "OperatorType schema.",
+              "description": "An explanation about the purpose of this instance described by this schema.",
+              "name": "operatorType",
+              "default": "user/publicBody/ngo"
+            },
+            "mobility": {
+              "id": "http://jsonschema.net/properties/inputSource/mobility",
+              "type": "string",
+              "title": "Mobility schema.",
+              "description": "An explanation about the purpose of this instance described by this schema.",
+              "name": "mobility",
+              "default": "mobile/stationary"
+            },
+            "inputSourceType": {
+              "id": "http://jsonschema.net/properties/inputSource/inputSourceType",
+              "type": "string",
+              "title": "InputSourceType schema.",
+              "description": "An explanation about the purpose of this instance described by this schema.",
+              "name": "inputSourceType",
+              "default": "mobile/diyKit/satellite"
+            },
+            "accuracy": {
+              "id": "http://jsonschema.net/properties/inputSource/accuracy",
+              "type": "string",
+              "title": "Accuracy schema.",
+              "description": "An explanation about the purpose of this instance described by this schema.",
+              "name": "accuracy",
+              "default": ""
+            },
+            "trust": {
+              "id": "http://jsonschema.net/properties/inputSource/trust",
+              "type": "string",
+              "title": "Trust schema.",
+              "description": "An explanation about the purpose of this instance described by this schema.",
+              "name": "trust",
+              "default": ""
+            },
+            "coordinates": {
+              "id": "http://jsonschema.net/properties/inputSource/coordinates",
+              "type": "array",
+              "title": "Coordinates schema.",
+              "description": "An explanation about the purpose of this instance described by this schema.",
+              "name": "coordinates",
+              "items": {
+                "id": "http://jsonschema.net/properties/inputSource/coordinates/1",
+                "type": "number",
+                "title": "1 schema.",
+                "description": "An explanation about the purpose of this instance described by this schema.",
+                "name": "1",
+                "default": 43.4554
+              }
+            }
+          }
+        },
+        "measurement": {
+          "id": "http://jsonschema.net/properties/measurement",
+          "type": "object",
+          "title": "Measurement schema.",
+          "description": "An explanation about the purpose of this instance described by this schema.",
+          "name": "measurement",
+          "properties": {
+            "measurementSource": {
+              "id": "http://jsonschema.net/properties/measurement/measurementSource",
+              "type": "string",
+              "title": "MeasurementSource schema.",
+              "description": "An explanation about the purpose of this instance described by this schema.",
+              "name": "measurementSource",
+              "default": "-"
+            },
+            "accuracy": {
+              "id": "http://jsonschema.net/properties/measurement/accuracy",
+              "type": "string",
+              "title": "Accuracy schema.",
+              "description": "An explanation about the purpose of this instance described by this schema.",
+              "name": "accuracy",
+              "default": ""
+            },
+            "intensity": {
+              "id": "http://jsonschema.net/properties/measurement/intensity",
+              "type": "string",
+              "title": "Intensity schema.",
+              "description": "An explanation about the purpose of this instance described by this schema.",
+              "name": "intensity",
+              "default": ""
+            },
+            "trust": {
+              "id": "http://jsonschema.net/properties/measurement/trust",
+              "type": "string",
+              "title": "Trust schema.",
+              "description": "An explanation about the purpose of this instance described by this schema.",
+              "name": "trust",
+              "default": ""
+            },
+            "coordinates": {
+              "id": "http://jsonschema.net/properties/measurement/coordinates",
+              "type": "array",
+              "title": "Coordinates schema.",
+              "description": "An explanation about the purpose of this instance described by this schema.",
+              "name": "coordinates",
+              "items": {}
+            },
+            "timestamp": {
+              "id": "http://jsonschema.net/properties/measurement/timestamp",
+              "type": "string",
+              "title": "Timestamp schema.",
+              "description": "An explanation about the purpose of this instance described by this schema.",
+              "name": "timestamp",
+              "default": "2016-04-09T04:51:59Z"
+            },
+            "values": {
+              "id": "http://jsonschema.net/properties/measurement/values",
+              "type": "object",
+              "title": "Values schema.",
+              "description": "An explanation about the purpose of this instance described by this schema.",
+              "name": "values",
+              "properties": {
+                "humidity": {
+                  "id": "http://jsonschema.net/properties/measurement/values/humidity",
+                  "type": "object",
+                  "title": "Humidity schema.",
+                  "description": "An explanation about the purpose of this instance described by this schema.",
+                  "name": "humidity",
+                  "properties": {
+                    "name": {
+                      "id": "http://jsonschema.net/properties/measurement/values/humidity/name",
+                      "type": "string",
+                      "title": "Name schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "name",
+                      "default": ""
+                    },
+                    "value": {
+                      "id": "http://jsonschema.net/properties/measurement/values/humidity/value",
+                      "type": "string",
+                      "title": "Value schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "value",
+                      "default": ""
+                    },
+                    "unit": {
+                      "id": "http://jsonschema.net/properties/measurement/values/humidity/unit",
+                      "type": "string",
+                      "title": "Unit schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "unit",
+                      "default": ""
+                    }
+                  }
+                },
+                "airPressure": {
+                  "id": "http://jsonschema.net/properties/measurement/values/airPressure",
+                  "type": "object",
+                  "title": "AirPressure schema.",
+                  "description": "An explanation about the purpose of this instance described by this schema.",
+                  "name": "airPressure",
+                  "properties": {
+                    "name": {
+                      "id": "http://jsonschema.net/properties/measurement/values/airPressure/name",
+                      "type": "string",
+                      "title": "Name schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "name",
+                      "default": ""
+                    },
+                    "value": {
+                      "id": "http://jsonschema.net/properties/measurement/values/airPressure/value",
+                      "type": "string",
+                      "title": "Value schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "value",
+                      "default": ""
+                    },
+                    "unit": {
+                      "id": "http://jsonschema.net/properties/measurement/values/airPressure/unit",
+                      "type": "string",
+                      "title": "Unit schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "unit",
+                      "default": ""
+                    }
+                  }
+                },
+                "radiation": {
+                  "id": "http://jsonschema.net/properties/measurement/values/radiation",
+                  "type": "object",
+                  "title": "Radiation schema.",
+                  "description": "An explanation about the purpose of this instance described by this schema.",
+                  "name": "radiation",
+                  "properties": {
+                    "name": {
+                      "id": "http://jsonschema.net/properties/measurement/values/radiation/name",
+                      "type": "string",
+                      "title": "Name schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "name",
+                      "default": ""
+                    },
+                    "value": {
+                      "id": "http://jsonschema.net/properties/measurement/values/radiation/value",
+                      "type": "string",
+                      "title": "Value schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "value",
+                      "default": ""
+                    },
+                    "unit": {
+                      "id": "http://jsonschema.net/properties/measurement/values/radiation/unit",
+                      "type": "string",
+                      "title": "Unit schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "unit",
+                      "default": ""
+                    }
+                  }
+                },
+                "wind": {
+                  "id": "http://jsonschema.net/properties/measurement/values/wind",
+                  "type": "object",
+                  "title": "Wind schema.",
+                  "description": "An explanation about the purpose of this instance described by this schema.",
+                  "name": "wind",
+                  "properties": {
+                    "name": {
+                      "id": "http://jsonschema.net/properties/measurement/values/wind/name",
+                      "type": "string",
+                      "title": "Name schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "name",
+                      "default": ""
+                    },
+                    "value": {
+                      "id": "http://jsonschema.net/properties/measurement/values/wind/value",
+                      "type": "string",
+                      "title": "Value schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "value",
+                      "default": ""
+                    },
+                    "unit": {
+                      "id": "http://jsonschema.net/properties/measurement/values/wind/unit",
+                      "type": "string",
+                      "title": "Unit schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "unit",
+                      "default": ""
+                    }
+                  }
+                },
+                "symptom": {
+                  "id": "http://jsonschema.net/properties/measurement/values/symptom",
+                  "type": "object",
+                  "title": "Symptom schema.",
+                  "description": "An explanation about the purpose of this instance described by this schema.",
+                  "name": "symptom",
+                  "properties": {
+                    "name": {
+                      "id": "http://jsonschema.net/properties/measurement/values/symptom/name",
+                      "type": "string",
+                      "title": "Name schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "name",
+                      "default": ""
+                    },
+                    "value": {
+                      "id": "http://jsonschema.net/properties/measurement/values/symptom/value",
+                      "type": "string",
+                      "title": "Value schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "value",
+                      "default": ""
+                    },
+                    "unit": {
+                      "id": "http://jsonschema.net/properties/measurement/values/symptom/unit",
+                      "type": "string",
+                      "title": "Unit schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "unit",
+                      "default": ""
+                    }
+                  }
+                },
+                "airQuality": {
+                  "id": "http://jsonschema.net/properties/measurement/values/airQuality",
+                  "type": "object",
+                  "title": "AirQuality schema.",
+                  "description": "An explanation about the purpose of this instance described by this schema.",
+                  "name": "airQuality",
+                  "properties": {
+                    "NO2": {
+                      "id": "http://jsonschema.net/properties/measurement/values/airQuality/NO2",
+                      "type": "object",
+                      "title": "NO2 schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "NO2",
+                      "properties": {
+                        "unit": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/NO2/unit",
+                          "type": "string",
+                          "title": "Unit schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "unit",
+                          "default": "m"
+                        },
+                        "value": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/NO2/value",
+                          "type": "string",
+                          "title": "Value schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "value",
+                          "default": "115.0"
+                        },
+                        "alertLevel": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/NO2/alertLevel",
+                          "type": "string",
+                          "title": "AlertLevel schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "alertLevel",
+                          "default": "10.0"
+                        },
+                        "warningLevel": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/NO2/warningLevel",
+                          "type": "string",
+                          "title": "WarningLevel schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "warningLevel",
+                          "default": "8.0"
+                        },
+                        "normalLevel": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/NO2/normalLevel",
+                          "type": "string",
+                          "title": "NormalLevel schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "normalLevel",
+                          "default": "5.0"
+                        }
+                      }
+                    },
+                    "ozone": {
+                      "id": "http://jsonschema.net/properties/measurement/values/airQuality/ozone",
+                      "type": "object",
+                      "title": "Ozone schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "ozone",
+                      "properties": {
+                        "unit": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/ozone/unit",
+                          "type": "string",
+                          "title": "Unit schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "unit",
+                          "default": "m"
+                        },
+                        "value": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/ozone/value",
+                          "type": "string",
+                          "title": "Value schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "value",
+                          "default": "120.0"
+                        },
+                        "alertLevel": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/ozone/alertLevel",
+                          "type": "string",
+                          "title": "AlertLevel schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "alertLevel",
+                          "default": "10.0"
+                        },
+                        "warningLevel": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/ozone/warningLevel",
+                          "type": "string",
+                          "title": "WarningLevel schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "warningLevel",
+                          "default": "8.0"
+                        },
+                        "normalLevel": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/ozone/normalLevel",
+                          "type": "string",
+                          "title": "NormalLevel schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "normalLevel",
+                          "default": "5.0"
+                        }
+                      }
+                    },
+                    "CO": {
+                      "id": "http://jsonschema.net/properties/measurement/values/airQuality/CO",
+                      "type": "object",
+                      "title": "CO schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "CO",
+                      "properties": {
+                        "unit": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/CO/unit",
+                          "type": "string",
+                          "title": "Unit schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "unit",
+                          "default": "m"
+                        },
+                        "value": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/CO/value",
+                          "type": "string",
+                          "title": "Value schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "value",
+                          "default": "0.1"
+                        },
+                        "alertLevel": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/CO/alertLevel",
+                          "type": "string",
+                          "title": "AlertLevel schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "alertLevel",
+                          "default": "10.0"
+                        },
+                        "warningLevel": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/CO/warningLevel",
+                          "type": "string",
+                          "title": "WarningLevel schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "warningLevel",
+                          "default": "8.0"
+                        },
+                        "normalLevel": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/CO/normalLevel",
+                          "type": "string",
+                          "title": "NormalLevel schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "normalLevel",
+                          "default": "5.0"
+                        }
+                      }
+                    },
+                    "SO2": {
+                      "id": "http://jsonschema.net/properties/measurement/values/airQuality/SO2",
+                      "type": "object",
+                      "title": "SO2 schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "SO2",
+                      "properties": {
+                        "unit": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/SO2/unit",
+                          "type": "string",
+                          "title": "Unit schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "unit",
+                          "default": "m"
+                        },
+                        "value": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/SO2/value",
+                          "type": "string",
+                          "title": "Value schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "value",
+                          "default": "0.1"
+                        },
+                        "alertLevel": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/SO2/alertLevel",
+                          "type": "string",
+                          "title": "AlertLevel schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "alertLevel",
+                          "default": "10.0"
+                        },
+                        "warningLevel": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/SO2/warningLevel",
+                          "type": "string",
+                          "title": "WarningLevel schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "warningLevel",
+                          "default": "8.0"
+                        },
+                        "normalLevel": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/SO2/normalLevel",
+                          "type": "string",
+                          "title": "NormalLevel schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "normalLevel",
+                          "default": "5.0"
+                        }
+                      }
+                    },
+                    "PM2_5": {
+                      "id": "http://jsonschema.net/properties/measurement/values/airQuality/PM2_5",
+                      "type": "object",
+                      "title": "PM2_5 schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "PM2_5",
+                      "properties": {
+                        "unit": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/PM2_5/unit",
+                          "type": "string",
+                          "title": "Unit schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "unit",
+                          "default": "m"
+                        },
+                        "value": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/PM2_5/value",
+                          "type": "string",
+                          "title": "Value schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "value",
+                          "default": "0.1"
+                        },
+                        "alertLevel": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/PM2_5/alertLevel",
+                          "type": "string",
+                          "title": "AlertLevel schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "alertLevel",
+                          "default": "10.0"
+                        },
+                        "warningLevel": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/PM2_5/warningLevel",
+                          "type": "string",
+                          "title": "WarningLevel schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "warningLevel",
+                          "default": "8.0"
+                        },
+                        "normalLevel": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/PM2_5/normalLevel",
+                          "type": "string",
+                          "title": "NormalLevel schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "normalLevel",
+                          "default": "5.0"
+                        }
+                      }
+                    },
+                    "PM10": {
+                      "id": "http://jsonschema.net/properties/measurement/values/airQuality/PM10",
+                      "type": "object",
+                      "title": "PM10 schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "PM10",
+                      "properties": {
+                        "unit": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/PM10/unit",
+                          "type": "string",
+                          "title": "Unit schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "unit",
+                          "default": "m"
+                        },
+                        "value": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/PM10/value",
+                          "type": "string",
+                          "title": "Value schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "value",
+                          "default": "0.1"
+                        },
+                        "alertLevel": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/PM10/alertLevel",
+                          "type": "string",
+                          "title": "AlertLevel schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "alertLevel",
+                          "default": "10.0"
+                        },
+                        "warningLevel": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/PM10/warningLevel",
+                          "type": "string",
+                          "title": "WarningLevel schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "warningLevel",
+                          "default": "8.0"
+                        },
+                        "normalLevel": {
+                          "id": "http://jsonschema.net/properties/measurement/values/airQuality/PM10/normalLevel",
+                          "type": "string",
+                          "title": "NormalLevel schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "normalLevel",
+                          "default": "5.0"
+                        }
+                      }
+                    }
+                  }
+                },
+                "temperature": {
+                  "id": "http://jsonschema.net/properties/measurement/values/temperature",
+                  "type": "object",
+                  "title": "Temperature schema.",
+                  "description": "An explanation about the purpose of this instance described by this schema.",
+                  "name": "temperature",
+                  "properties": {
+                    "temperature": {
+                      "id": "http://jsonschema.net/properties/measurement/values/temperature/temperature",
+                      "type": "object",
+                      "title": "Temperature schema.",
+                      "description": "An explanation about the purpose of this instance described by this schema.",
+                      "name": "temperature",
+                      "properties": {
+                        "actual": {
+                          "id": "http://jsonschema.net/properties/measurement/values/temperature/temperature/actual",
+                          "type": "string",
+                          "title": "Actual schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "actual",
+                          "default": "14.0"
+                        },
+                        "red": {
+                          "id": "http://jsonschema.net/properties/measurement/values/temperature/temperature/red",
+                          "type": "string",
+                          "title": "Red schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "red",
+                          "default": "10.0"
+                        },
+                        "yellow": {
+                          "id": "http://jsonschema.net/properties/measurement/values/temperature/temperature/yellow",
+                          "type": "string",
+                          "title": "Yellow schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "yellow",
+                          "default": "8.0"
+                        },
+                        "green": {
+                          "id": "http://jsonschema.net/properties/measurement/values/temperature/temperature/green",
+                          "type": "string",
+                          "title": "Green schema.",
+                          "description": "An explanation about the purpose of this instance described by this schema.",
+                          "name": "green",
+                          "default": "5.0"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "geometry": {
+      "id": "http://jsonschema.net/geometry",
+      "type": "object",
+      "title": "Geometry schema.",
+      "description": "Location related schema",
+      "name": "geometry",
+      "properties": {
+        "type": {
+          "id": "http://jsonschema.net/geometry/type",
+          "type": "string",
+          "title": "Type schema.",
+          "description": "An explanation about the purpose of this instance described by this schema.",
+          "name": "type",
+          "default": "Point"
+        },
+        "coordinates": {
+          "id": "http://jsonschema.net/geometry/coordinates",
+          "type": "array",
+          "title": "Coordinates schema.",
+          "description": "GeoJSON style coordinates",
+          "name": "coordinates",
+          "items": {
+            "id": "http://jsonschema.net/geometry/coordinates/1",
+            "type": "number",
+            "title": "1 schema.",
+            "description": "An explanation about the purpose of this instance described by this schema.",
+            "name": "1",
+            "default": 43.4554
+          }
+        }
+      }
+    }
+  },
+  "required": [
+    "type",
+    "properties",
+    "geometry"
+  ]
+}

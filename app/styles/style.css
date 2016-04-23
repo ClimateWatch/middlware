@@ -1,0 +1,125 @@
+@import url("../vendor/leaflet/dist/leaflet.css");
+
+html,body,.main-content,.main-content-inner,#map{
+	height:100%;
+}
+
+body {
+	margin:0;
+}
+
+.main-content {
+	position: relative;
+}
+
+a,a:focus,a:active {
+    color: #333;
+    text-decoration: none;
+}
+
+.console-container {
+    position: absolute;
+    width: 50%;
+    top: 0;
+    background: #fff;
+    display: block;
+    bottom: 0;
+    right:;
+    overflow: auto;
+}
+
+.chart-wrapper h2 {
+    padding: 10px;
+    margin-left: 23px;
+    font-size: 20px;
+}
+.actions {
+    position: fixed;
+    top: 0;
+    right: 0;
+    display: block;
+    /* width: 100px; */
+    /* height: 43px; */
+    background: rgba(0,0,0,0.3);
+    z-index: 9999;
+    padding: 10px;
+}
+
+.legend label,
+.legend span {
+  display:block;
+  float:left;
+  height:15px;
+  width:20%;
+  text-align:center;
+  font-size:9px;
+  color:#808080;
+  }
+
+.actions td {5:px;padding: 5px 8px;border-right: 2px solid #272828;} 
+
+.searchbox {
+position: fixed;
+    top: 200px;
+    left: 50%;
+    margin-left: -200px;
+    display: block;
+    width: 500px;
+    height: 110px;
+    background: rgba(0,0,0,0.6);
+    z-index: 9999;
+    padding: 10px;
+}
+
+.searchbox input[type="text"] {
+    width: 84%;
+    padding: 7px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.searchbox .close-search {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    color: #272828;
+}
+
+span.c3 {
+    color: #272727;
+    padding: 2px;
+    border-radius: 16px;
+    border: 1px solid;
+    background: #fff;
+    opacity: 1;
+}
+
+.panel{
+    margin-bottom:0
+}
+.panel .panel-title {
+    background: #f2f2f2;
+    padding: 30px;
+    cursor: pointer;
+    color: rgba(34, 34, 34, 0.69);
+    font-size: 30px;
+}
+.panel .panel-content {
+    display: none;
+}
+
+.panel.open .panel-content {
+    display:block;
+}
+.close-button {
+    position: fixed;
+    top: 10px;
+    left: 51%;
+    z-index: 999909999;
+    font-size: 40px;
+    background: #fff;
+    color: rgba(34, 34, 34, 0.52);
+    padding: 10px 17px 4px 15px;
+    border-radius: 6px;
+}
