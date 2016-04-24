@@ -16,11 +16,15 @@ require.config({
 })
 
 
+
+
+
 require(['jquery', 'underscore', 'text!json/sensores_smart_mobile.geojson', 'text!json/sensores_smart_mobile_xtended.geojson','text!json/AirBase_FR_v4_stations.geojson','text!json/AirBase_GR_v8_stations.geojson', 'modules/console', 'leaflet'], function($, _, geodata, geodataxtended,stationFRdata, stationGRdata, cnl, L) {
 
 
-// Your API key for panos.peristeropoulos@gmail.com is:
 
+
+// Your API key for panos.peristeropoulos@gmail.com is:
 // uk7gHp7PeFSV8l8wbh0j4xK0zNbCLIWjF8fQmf69
 var url = "https://api.nasa.gov/planetary/earth/imagery?lon=100.75&lat=1.5&date=2014-02-01&cloud_score=True&api_key=uk7gHp7PeFSV8l8wbh0j4xK0zNbCLIWjF8fQmf69";
 
@@ -238,25 +242,26 @@ function handleResult(result){
         //     console.log(map.getCenter())
         // })
 
-        mmmmmap.on('click', function(data) {
-            //create circle
-            if (this.circle) {
-                // this.circle.removeFrom(map);
-                map.removeLayer(this.circle)
-            }
-            this.circle = L.circle(data.latlng, 1000).addTo(map);
-            var bounds = L.geoJson(this.circle.toGeoJSON()).getBounds();
-            console.log(bounds)
-                // console.log(bounds.contains([43.44419515712329, -3.8474464416503906]));
-            var containedData = _.filter(geojson, function(item) {
-                console.log(bounds.contains(item.geometry.coordinates))
-                return bounds.contains(item.geometry.coordinates);
-            });
-            console.log('contained data', containedData)
-            cnl.open({ geojson: geoxtended })
-            var e = data && data.originalEvent;
+        // mmmmmap.on('click', function(data) {
+        //     //create circle
+        //     if (this.circle) {
+        //         // this.circle.removeFrom(map);
+        //         map.removeLayer(this.circle)
+        //     }
+        //     this.circle = L.circle(data.latlng, 1000).addTo(map);
+        //     var bounds = L.geoJson(this.circle.toGeoJSON()).getBounds();
+        //     console.log(bounds)
+        //         // console.log(bounds.contains([43.44419515712329, -3.8474464416503906]));
+        //     var containedData = _.filter(geojson, function(item) {
+        //         console.log(bounds.contains(item.geometry.coordinates))
+        //         return bounds.contains(item.geometry.coordinates);
+        //     });
+        //     console.log('contained data', containedData)
+        //     cnl.open({ geojson: geoxtended })
+        //     var e = data && data.originalEvent;
 
-        });
+        // });
+
 
         // $('.searchbox').remove();
 

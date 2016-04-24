@@ -1,0 +1,105 @@
+{
+  "type" : "FeatureCollection",
+  "features" : 
+[
+   {
+      "type":"Feature",
+      "properties":{
+		 "id":"bla",
+		 "featureType":"inputSource",
+		 "accuracy":"100",
+		 "trust":"100",
+         "inputSourceType":"groundStation",
+		 "mobility":"stationary",
+		 "operatorType":"publicBody",
+		 "station_european_code":"FR25001",
+		 "station_local_code":"country_iso_code",
+		 "country_name":"FRANCE",
+		 "station_name":"1 Mairie-Bois-Guillaume",
+		 "station_start_date":"29/03/1973",
+		 "station_end_date":"",
+		 "type_of_station":"Traffic",
+		 
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{
+               "actual":"115.0",
+               "red":"100.0",
+               "yellow":"80.0",
+               "green":"50.0"
+            },
+            "CO":{
+               "actual":"0.1",
+               "red":"10.0",
+               "yellow":"8.0",
+               "green":"5.0"
+            }
+         },
+         "temperature":{
+            "temperature":{
+               "actual":"14.0",
+               "red":"10.0",
+               "yellow":"8.0",
+               "green":"5.0"
+            }
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -3.83352,
+            43.4554,
+			160
+         ]
+      }
+   },
+   {
+      "type":"Feature",
+      "properties":{
+         "marker-color":"#bbb",
+         "datatype":{
+            "color":"green"
+         },
+         "airquality":{
+            "NO2":{
+               "actual":"140.0",
+               "red":"10.0",
+               "yellow":"8.0",
+               "green":"5.0"
+            },
+            "ozone":{
+               "actual":"111.0",
+               "red":"100.0",
+               "yellow":"80.0",
+               "green":"50.0"
+            },
+            "CO":{
+               "actual":"70.1",
+               "red":"10.0",
+               "yellow":"8.0",
+               "green":"5.0"
+            }
+         },
+         "temperature":{
+            "temperature":{
+               "actual":"14.0",
+               "red":"10.0",
+               "yellow":"8.0",
+               "green":"5.0"
+            }
+         }
+      },
+      "geometry":{
+         "type":"Point",
+         "coordinates":[
+            -2.94568,
+            43.3039,
+			0
+         ]
+      }
+   }
+]
+
+}

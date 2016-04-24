@@ -1,0 +1,34 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "22.945288", "40.633774", "27" ]
+    },
+    "properties" : {
+		 "featureType":"measurement",
+		 "id":"foo",
+		 "inputSourceId":"bla"
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2",
+         "value" : "100",
+         "unit" : "CO2 unit",
+         "alertLevel" : "150",
+         "warningLevel" : "120",
+         "normalLevel" : "90",		  
+         "timestamp":"2016-04-09T04:51:59Z"
+        }, {
+          "name" : "CO2",
+         "value" : "100",
+         "unit" : "CO2 unit",
+         "alertLevel" : "150",
+         "warningLevel" : "120",
+         "normalLevel" : "90",
+		 "timestamp":"2016-04-09T04:51:59Z"
+        } ]
+      },
+    }
+  }
+]
