@@ -1,0 +1,1188 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "22.945288", "40.633774", "27" ]
+    },
+    "properties" : {
+      "station_name" : "AGIA SOFIA",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "THESSALONIKI",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Traffic",
+      "station_ozone_classification" : "",
+      "country_iso_code" : "GR",
+      "station_local_code" : "201",
+      "station_start_date" : "2001-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0018A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.110268", "38.375248", "110" ]
+    },
+    "properties" : {
+      "station_name" : "ALIARTOS",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "rural",
+      "station_city" : "ALIARTOS",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Background",
+      "station_ozone_classification" : "rural",
+      "country_iso_code" : "GR",
+      "station_local_code" : "110",
+      "station_start_date" : "1987-01-01",
+      "station_subcat_rural_back" : "regional",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0110R",
+      "lau_level2_name" : "",
+      "EMEP_station" : "yes"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.727628", "37.988028", "95" ]
+    },
+    "properties" : {
+      "station_name" : "ARISTOTELOUS",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "ATHENS",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Traffic",
+      "station_ozone_classification" : "",
+      "country_iso_code" : "GR",
+      "station_local_code" : "109",
+      "station_start_date" : "1984-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Canyon street: L/H < 1.5",
+      "station_european_code" : "GR0003A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.726843", "37.978207", "100" ]
+    },
+    "properties" : {
+      "station_name" : "ATHINAS",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "ATHENS",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Traffic",
+      "station_ozone_classification" : "urban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "103",
+      "station_start_date" : "1988-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Canyon street: L/H < 1.5",
+      "station_european_code" : "GR0002A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.819418", "37.995106", "290" ]
+    },
+    "properties" : {
+      "station_name" : "Agia PARASKEVI",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "suburban",
+      "station_city" : "AGIA PARASKEVI",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Background",
+      "station_ozone_classification" : "suburban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "115",
+      "station_start_date" : "2001-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0039A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.531958", "38.051666", "10" ]
+    },
+    "properties" : {
+      "station_name" : "Aspropyrgos",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "suburban",
+      "station_city" : "ATHENS",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Unknown",
+      "station_ozone_classification" : "",
+      "country_iso_code" : "GR",
+      "station_local_code" : "",
+      "station_start_date" : "1987-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "1988-12-30",
+      "street_type" : "Unknown",
+      "station_european_code" : "GR0033A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.640005", "37.941944", "14" ]
+    },
+    "properties" : {
+      "station_name" : "Drapetsona",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "suburban",
+      "station_city" : "ATHENS",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Unknown",
+      "station_ozone_classification" : "",
+      "country_iso_code" : "GR",
+      "station_local_code" : "",
+      "station_start_date" : "1984-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "1987-12-30",
+      "street_type" : "Unknown",
+      "station_european_code" : "GR0004A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.538446", "38.051350", "20" ]
+    },
+    "properties" : {
+      "station_name" : "Elefsina",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "ELEFSINA",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Industrial",
+      "station_ozone_classification" : "urban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "114",
+      "station_start_date" : "2001-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0038A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.748205", "38.020287", "154" ]
+    },
+    "properties" : {
+      "station_name" : "GALATSI",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "GALATSI",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Background",
+      "station_ozone_classification" : "",
+      "country_iso_code" : "GR",
+      "station_local_code" : "118",
+      "station_start_date" : "2001-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "2004-12-31",
+      "street_type" : "Canyon street: L/H < 1.5",
+      "station_european_code" : "GR0042A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.767429", "37.984146", "155" ]
+    },
+    "properties" : {
+      "station_name" : "GOUDI",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "ATHENS",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Traffic",
+      "station_ozone_classification" : "",
+      "country_iso_code" : "GR",
+      "station_local_code" : "116",
+      "station_start_date" : "2001-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "2009-12-31",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0040A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "25.080011", "35.332500", "10" ]
+    },
+    "properties" : {
+      "station_name" : "HERAKLION",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "HERACLION",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Traffic",
+      "station_ozone_classification" : "",
+      "country_iso_code" : "GR",
+      "station_local_code" : "",
+      "station_start_date" : "2001-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0009A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "20.850000", "39.619999", "485" ]
+    },
+    "properties" : {
+      "station_name" : "IOANNINA",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "suburban",
+      "station_city" : "IOANNINA",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Background",
+      "station_ozone_classification" : "suburban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "230",
+      "station_start_date" : "2008-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "",
+      "station_european_code" : "GR0230A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "22.959303", "40.578917", "60" ]
+    },
+    "properties" : {
+      "station_name" : "KALAMARIA",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "suburban",
+      "station_city" : "KALAMARIA",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Traffic",
+      "station_ozone_classification" : "",
+      "country_iso_code" : "GR",
+      "station_local_code" : "204",
+      "station_start_date" : "1986-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0019A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "22.893438", "40.673550", "30" ]
+    },
+    "properties" : {
+      "station_name" : "KORDELIO",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "ELETHERIO-KORDELIO",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Industrial",
+      "station_ozone_classification" : "urban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "202",
+      "station_start_date" : "2001-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0020A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.879023", "37.901306", "140" ]
+    },
+    "properties" : {
+      "station_name" : "KOROPI",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "suburban",
+      "station_city" : "KOROPI",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Background",
+      "station_ozone_classification" : "",
+      "country_iso_code" : "GR",
+      "station_local_code" : "120",
+      "station_start_date" : "2008-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "",
+      "station_european_code" : "GR0120A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "22.453337", "39.667500", "5" ]
+    },
+    "properties" : {
+      "station_name" : "LARISA",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "LARISSA",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Traffic",
+      "station_ozone_classification" : "",
+      "country_iso_code" : "GR",
+      "station_local_code" : "",
+      "station_start_date" : "2001-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "",
+      "station_european_code" : "GR0010A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.697842", "38.076814", "165" ]
+    },
+    "properties" : {
+      "station_name" : "LIOSIA",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "suburban",
+      "station_city" : "ANO LIOSIA",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Background",
+      "station_ozone_classification" : "suburban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "106",
+      "station_start_date" : "1984-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0027A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.776886", "38.069633", "210" ]
+    },
+    "properties" : {
+      "station_name" : "LYKOVRISI",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "suburban",
+      "station_city" : "LYKOVRISI",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Background",
+      "station_ozone_classification" : "suburban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "112",
+      "station_start_date" : "1994-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0035A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.787357", "38.030838", "170" ]
+    },
+    "properties" : {
+      "station_name" : "MAROUSI",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "AMAROUSSIO",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Traffic",
+      "station_ozone_classification" : "urban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "107",
+      "station_start_date" : "1990-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0022A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "22.250000", "37.250000", "750" ]
+    },
+    "properties" : {
+      "station_name" : "MEGALOPOLI",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "MEGALOPOLI",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Industrial",
+      "station_ozone_classification" : "",
+      "country_iso_code" : "GR",
+      "station_local_code" : "",
+      "station_start_date" : "1984-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "",
+      "station_european_code" : "GR0017A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.713009", "37.931995", "50" ]
+    },
+    "properties" : {
+      "station_name" : "NEA SMIRNI",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "NEA SMYRNI",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Background",
+      "station_ozone_classification" : "urban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "105",
+      "station_start_date" : "1984-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0031A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "22.876231", "40.739842", "229" ]
+    },
+    "properties" : {
+      "station_name" : "NEOCHOROUDA",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "suburban",
+      "station_city" : "KALITHEA",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Background",
+      "station_ozone_classification" : "suburban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "206",
+      "station_start_date" : "2001-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0045A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.638914", "38.306217", "100" ]
+    },
+    "properties" : {
+      "station_name" : "OINOFYTA",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "OINOFYTA",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Industrial",
+      "station_ozone_classification" : "",
+      "country_iso_code" : "GR",
+      "station_local_code" : "119",
+      "station_start_date" : "2008-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "",
+      "station_european_code" : "GR0119A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.031681", "40.588931", "363" ]
+    },
+    "properties" : {
+      "station_name" : "PANORAMA",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "suburban",
+      "station_city" : "PANORAMA",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Background",
+      "station_ozone_classification" : "suburban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "208",
+      "station_start_date" : "2001-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0047A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.733047", "37.999458", "105" ]
+    },
+    "properties" : {
+      "station_name" : "PATISION",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "ATHENS",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Traffic",
+      "station_ozone_classification" : "urban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "101",
+      "station_start_date" : "1984-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Canyon street: L/H < 1.5",
+      "station_european_code" : "GR0032A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "21.738430", "38.253098", "16" ]
+    },
+    "properties" : {
+      "station_name" : "PATRA-1",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "PATRA",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Traffic",
+      "station_ozone_classification" : "",
+      "country_iso_code" : "GR",
+      "station_local_code" : "301",
+      "station_start_date" : "2001-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0008A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "21.735897", "38.245975", "19" ]
+    },
+    "properties" : {
+      "station_name" : "PATRA-2",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "PATRA",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Traffic",
+      "station_ozone_classification" : "",
+      "country_iso_code" : "GR",
+      "station_local_code" : "302",
+      "station_start_date" : "2001-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0048A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.688354", "38.020805", "80" ]
+    },
+    "properties" : {
+      "station_name" : "PERISTERI",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "PERISTERI",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Background",
+      "station_ozone_classification" : "urban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "108",
+      "station_start_date" : "1989-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0028A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.647511", "37.943287", "20" ]
+    },
+    "properties" : {
+      "station_name" : "PIREAUS-1",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "PIREAS",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Traffic",
+      "station_ozone_classification" : "urban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "102",
+      "station_start_date" : "1984-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0030A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.652685", "37.941971", "25" ]
+    },
+    "properties" : {
+      "station_name" : "PIREAUS-2",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "PIREAS",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Background",
+      "station_ozone_classification" : "urban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "117",
+      "station_start_date" : "2001-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "2008-01-01",
+      "street_type" : "Canyon street: L/H < 1.5",
+      "station_european_code" : "GR0041A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "21.832516", "40.516666", "4" ]
+    },
+    "properties" : {
+      "station_name" : "Ptolemaida - Center of seed production",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "PTOLEMAIDA",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Industrial",
+      "station_ozone_classification" : "",
+      "country_iso_code" : "GR",
+      "station_local_code" : "",
+      "station_start_date" : "1984-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "",
+      "station_european_code" : "GR0012A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "22.802366", "40.657845", "14" ]
+    },
+    "properties" : {
+      "station_name" : "SINDOS",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "ECHEDORO",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Industrial",
+      "station_ozone_classification" : "urban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "207",
+      "station_start_date" : "2001-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0046A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.758183", "38.143524", "550" ]
+    },
+    "properties" : {
+      "station_name" : "THRAKOMAKEDONES",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "suburban",
+      "station_city" : "THRACOMAKEDONES",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Background",
+      "station_ozone_classification" : "suburban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "113",
+      "station_start_date" : "2001-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0037A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "22.956703", "40.633575", "55" ]
+    },
+    "properties" : {
+      "station_name" : "UNIVERSITY",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "THESSALONIKI",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Traffic",
+      "station_ozone_classification" : "urban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "205",
+      "station_start_date" : "2001-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0044A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "22.943064", "39.366386", "31" ]
+    },
+    "properties" : {
+      "station_name" : "VOLOS",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "urban",
+      "station_city" : "VOLOS",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Traffic",
+      "station_ozone_classification" : "",
+      "country_iso_code" : "GR",
+      "station_local_code" : "",
+      "station_start_date" : "1999-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0001A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.706789", "37.983627", "40" ]
+    },
+    "properties" : {
+      "station_name" : "VOTANIKOS",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "suburban",
+      "station_city" : "ATHENS",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Industrial",
+      "station_ozone_classification" : "suburban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "104",
+      "station_start_date" : "1984-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "",
+      "street_type" : "Wide street: L/H > 1.5",
+      "station_european_code" : "GR0029A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ "23.786728", "37.969603", "245" ]
+    },
+    "properties" : {
+      "station_name" : "ZOGRAFOU",
+      "lau_level2_code" : "",
+      "station_type_of_area" : "suburban",
+      "station_city" : "ZOGRAFOS",
+      "lau_level1_code" : "",
+      "airquality" : {
+        "measurements" : [ {
+          "name" : "CO2"
+        }, {
+          "name" : "NOx"
+        } ]
+      },
+      "type_of_station" : "Background",
+      "station_ozone_classification" : "suburban",
+      "country_iso_code" : "GR",
+      "station_local_code" : "119",
+      "station_start_date" : "2001-01-01",
+      "station_subcat_rural_back" : "",
+      "country_name" : "Greece",
+      "station_end_date" : "2008-01-01",
+      "street_type" : "Canyon street: L/H < 1.5",
+      "station_european_code" : "GR0043A",
+      "lau_level2_name" : "",
+      "EMEP_station" : "no"
+    }
+  } ]
+}

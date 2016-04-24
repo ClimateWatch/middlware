@@ -35,8 +35,8 @@ a,a:focus,a:active {
 }
 .actions {
     position: fixed;
-    top: 0;
-    right: 0;
+    bottom: 0;
+    left: 0;
     display: block;
     /* width: 100px; */
     /* height: 43px; */
@@ -56,7 +56,7 @@ a,a:focus,a:active {
   color:#808080;
   }
 
-.actions td {5:px;padding: 5px 8px;border-right: 2px solid #272828;} 
+.actions td {5:px;padding: 5px 8px;border-right: 2px solid #272828;}
 
 .searchbox {
 position: fixed;
@@ -122,4 +122,8 @@ span.c3 {
     color: rgba(34, 34, 34, 0.52);
     padding: 10px 17px 4px 15px;
     border-radius: 6px;
+}
+
+.searchbox {
+    display: none;
 }
